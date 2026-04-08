@@ -49,3 +49,6 @@ Order placed for John Doe at 123 Main St
 Invoice generated: order_123.pdf
 Email notification sent to: johndoe@example.com
 ```
+
+## UML Diagram
+![alt text](https://github.com/ramdcrz/solidPrinciples/blob/main/solidPrinciples_UML.png)
